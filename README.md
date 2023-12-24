@@ -15,18 +15,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
 
-![](./page_ss.png)
+![](./design/page_ss.png)
 
 ### Links
 
 - Solution URL: [http://127.0.0.1:5500/design/qr_code.html](http://127.0.0.1:5500/design/qr_code.html)
+<!--
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-->
 
 ## My process
 
@@ -36,12 +36,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - ~~Flexbox~~
 - CSS Grid
+<!--
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
 - [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+-->
 
 ### What I learned
 
@@ -73,6 +73,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Useful resources
 
+- [W3Schools HTML Tutorial](https://www.w3schools.com/html/default.asp) - This helped me throughout my solution.
+
 - [Markdown Guide](https://www.markdownguide.org/basic-syntax/) - This helped me at writing my first text in .md.
 
 - [Git Guide](https://www.youtube.com/watch?v=SWYqp7iY_Tc) - This helped me at understanding the basics of git. The best git tutorial that i could find.
@@ -88,13 +90,20 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
+<!--
 - Website - [Andrey Alves](https://www.your-site.com)
+-->
 - Frontend Mentor - [@expertiner](https://www.frontendmentor.io/profile/Expertiner)
+<!--
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
+-->
 
 ## Acknowledgments
 
+Got some inspiration from the Frontend Mentor Discord's Server.
+
+<!--
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
 **Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+-->
