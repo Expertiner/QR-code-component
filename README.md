@@ -58,11 +58,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Strikethrough text on .md
   > Surround the text with two tildes (~)
 
+- How to make a live URL using GitHub Pages
+  > - Name the page file as index.html on your repo.
+  >
+  > - On your repo, go to `Settings` > `Pages` > Change the `Branch` from *None* to *main*. 
+
 ### Continued development
 
 - Concepts I'm still not completely comfortable with:
   - CSS grid
-  - Github repo
   - The HTML attributes `name=""` and `content=""`
   - How to tab on .md
   - How to comment on .md
@@ -70,6 +74,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Techniques I want to refine and perfect:
   - The CSS property `margin`
+  - Github repo
+  - GitHub Pages
 
 ### Useful resources
 
@@ -82,6 +88,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Change Directories on Mac Terminal](https://www.easeus.com/computer-instruction/change-directory-in-terminal-mac.html#:~:text=To%20change%20the%20directory%20in%20Terminal%20Mac%2C%20it%27s%20recommended%20to,desktop%20into%20the%20Terminal%20Mac.) - This helped me at learning basic stuff about navigating through Mac Terminal.
 
 - [Showing Hidden Folders on Finder](https://www.pcmag.com/how-to/how-to-access-your-macs-hidden-files#:~:text=View%20Hidden%20Files%20in%20Finder&text=In%20Finder%2C%20click%20your%20hard,make%20the%20hidden%20files%20appear.) - This taught me an easy keyboard shortcut to unhide hidden folders on Finder.
+
+- [GitHub Pages](https://pages.github.com) - This helped me at posting a web page on the Internet. A live site URL.
 
 <!--
 - [Example resource 1](https://www.markdownguide.org/basic-syntax/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
