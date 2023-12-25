@@ -23,10 +23,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [http://127.0.0.1:5500/design/qr_code.html](http://127.0.0.1:5500/design/qr_code.html)
-<!--
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
--->
+- Solution URL: [https://www.frontendmentor.io/solutions/desktop-first-solution-using-css-grid-vlcnds7dIy](https://www.frontendmentor.io/solutions/desktop-first-solution-using-css-grid-vlcnds7dIy)
+
+- Live Site URL: [https://expertiner.github.io/QR-code-component/](https://expertiner.github.io/QR-code-component/)
+
 
 ## My process
 
@@ -79,6 +79,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - How to comment on .md
   - How to show hidden folders on VS Code
   - Importing a font-family into the code of the .html file
+  - The mobile part
 
 - Techniques I want to refine and perfect:
   - The CSS property `margin`
@@ -106,9 +107,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-<!--
-- Website - [Andrey Alves](https://www.your-site.com)
--->
+
+- GitHub - [Andrey Alves](https://github.com/Expertiner)
+
 - Frontend Mentor - [@expertiner](https://www.frontendmentor.io/profile/Expertiner)
 <!--
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
