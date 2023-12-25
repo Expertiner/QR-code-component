@@ -70,6 +70,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   >  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap" rel="stylesheet">
   >  ```
 
+- How to code properly the description
+  >  ```html
+  >  <meta name="description" content="Here goes the description" />
+  >  ```
+
 ### Continued development
 
 - Concepts I'm still not completely comfortable with:
