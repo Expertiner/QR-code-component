@@ -61,7 +61,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - How to make a live URL using GitHub Pages
   > - Name the page file as index.html on your repo.
   >
-  > - On your repo, go to `Settings` > `Pages` > Change the `Branch` from *None* to *main*. 
+  > - On your repo, go to `Settings` > `Pages` > Change the `Branch` from *None* to *main*.
+  >
+  > *You got to redo de process to update the changes made.*
 
 ### Continued development
 
@@ -75,7 +77,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Techniques I want to refine and perfect:
   - The CSS property `margin`
   - Github repo
-  - GitHub Pages
+  - GitHub Pages (The updates are not live)
 
 ### Useful resources
 

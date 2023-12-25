@@ -1,3 +1,17 @@
+/* 
+## Layout
+
+The designs were created to the following widths:
+- Mobile: 375px
+- Desktop: 1440px
+
+## Colors
+- White: hsl(0, 0%, 100%)
+- Light gray: hsl(212, 45%, 89%)
+- Grayish blue: hsl(220, 15%, 55%)
+- Dark blue: hsl(218, 44%, 22%)
+*/
+
 * {
     margin: 0;
     padding: 0;
@@ -13,21 +27,20 @@
   }
   
   .main_container {
-    width: 22.2%;
-    height: 73.3%;
+    width: 22.5%;
+    height: 89%;
     background-color: hsl(0, 0%, 100%);
     border-radius: 5%;
   }
   
   .qr_container {
-    width: 288px;
-    height: 59.6%;
+    width: 90%;
     margin: 5%;
   }
   
   .qr_container img {
     max-width: 100%;
-    border-radius: 5%;
+    border-radius: 3.5%;
   }
   
   .text_container {
@@ -35,6 +48,10 @@
     font-family: Outfit;
     text-align: center;
     font-size: 11px;
+  }
+  
+  h1 {
+    margin-top: 6%;
   }
   
   p {
