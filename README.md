@@ -65,6 +65,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   >
   > *You got to redo de process to update the changes made.*
 
+- Importing a font-family into the code of the html file
+  >  ```html
+  >  <link rel="preconnect" href="https://fonts.googleapis.com">
+  >  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  >  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap" rel="stylesheet">
+  >  ```
+
 ### Continued development
 
 - Concepts I'm still not completely comfortable with:
@@ -73,6 +80,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - How to tab on .md
   - How to comment on .md
   - How to show hidden folders on VS Code
+  - Importing a font-family into the code of the .html file
 
 - Techniques I want to refine and perfect:
   - The CSS property `margin`
