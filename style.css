@@ -45,7 +45,7 @@ The designs were created to the following widths:
   
   .text_container {
     color: hsl(218, 44%, 22%);
-    font-family: Outfit;
+    font-family: 'Outfit', sans-serif;
     text-align: center;
     font-size: 11px;
   }

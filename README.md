@@ -75,6 +75,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   >  <meta name="description" content="Here goes the description" />
   >  ```
 
+- How to import a font family from Google Fonts
+  > - Go to [Google Fonts](https://fonts.google.com/?query=outfit)
+  > - Search for a font
+  > - Add the weights you want by clocking on +
+  > - Click on the bag at the top right corner
+  > - Copy the html code
+  > - Paste it in your code
+
 ### Continued development
 
 - Concepts I'm still not completely comfortable with:
@@ -83,7 +91,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - How to tab on .md
   - How to comment on .md
   - How to show hidden folders on VS Code
-  - Importing a font-family into the code of the .html file
+  - ~~Importing a font-family into the code of the .html file~~
   - The mobile part
 
 - Techniques I want to refine and perfect:
