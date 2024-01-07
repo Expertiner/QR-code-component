@@ -82,6 +82,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   > - Click on the bag at the top right corner
   > - Copy the html code
   > - Paste it in your code
+  >
+
+- There's no need to set the width of the body to a fixed size.
 
 ### Corrections after the feedback
 - A main element should be included on the html code.
