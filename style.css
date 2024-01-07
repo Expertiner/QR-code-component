@@ -18,7 +18,7 @@ The designs were created to the following widths:
     box-sizing: border-box;
   }
 
-  body {
+  main {
     background-color: hsl(212, 45%, 89%);
     display: grid;
     place-items: center;

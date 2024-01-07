@@ -33,15 +33,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- ~~CSS custom properties~~
 - ~~Flexbox~~
 - CSS Grid
-<!--
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
--->
+
+- ~~Mobile-first workflow~~
+- ~~[React](https://reactjs.org/) - JS library~~
+- ~~[Next.js](https://nextjs.org/) - React framework~~
+- ~~[Styled Components](https://styled-components.com/) - For styles~~
+
 
 ### What I learned
 
@@ -83,6 +83,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   > - Copy the html code
   > - Paste it in your code
 
+### Corrections after the feedback
+- A main element should be included on the html code.
+  >```html
+  ><main>We can use it right before the body.</main>
+  >```
+
 ### Continued development
 
 - Concepts I'm still not completely comfortable with:
@@ -93,6 +99,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - How to show hidden folders on VS Code
   - ~~Importing a font-family into the code of the .html file~~
   - The mobile part
+  - CSS reset
 
 - Techniques I want to refine and perfect:
   - The CSS property `margin`
@@ -113,27 +120,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [GitHub Pages](https://pages.github.com) - This helped me at posting a web page on the Internet. A live site URL.
 
-<!--
-- [Example resource 1](https://www.markdownguide.org/basic-syntax/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
--->
-
 ## Author
-
 
 - GitHub - [Andrey Alves](https://github.com/Expertiner)
 
+- Linkedin - [Andrey Alves](https://www.linkedin.com/in/andrey-alves-da-silva-02312099/)
+
+- YouTube - [@andreyzices](https://www.youtube.com/channel/UCirtLAIX4JdTRy_Za6GKcwg)
+
 - Frontend Mentor - [@expertiner](https://www.frontendmentor.io/profile/Expertiner)
-<!--
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
--->
 
 ## Acknowledgments
 
 Got some inspiration from the Frontend Mentor Discord's Server.
-
-<!--
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
--->
